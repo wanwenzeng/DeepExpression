@@ -3,6 +3,9 @@ We propose DeepExpression, a densely connected convolutional neural network to p
 
 # Requirements
 Keras
+
 numpy
+
 sklearn
+
 random
