@@ -12,7 +12,7 @@ We propose DeepExpression, a densely connected convolutional neural network to p
 
 * Sequence file: one-hot encoding matrix of each 2000bp promoter sequence.
 
-All the preprocessed data can be found in Zenodo:
+All the preprocessed data can be found in Zenodo: https://zenodo.org/record/3040059
 
 ## Running coupleNMF
 **DeepExpression receives 8 parameters:**
