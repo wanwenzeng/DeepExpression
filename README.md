@@ -44,3 +44,6 @@ THEANO_FLAGS="device=cuda1" python deepexpression.py -cl mES -s mouse -c 0.1 -pl
 * numpy
 * sklearn
 * random
+
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details
